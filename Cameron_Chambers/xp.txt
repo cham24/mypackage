@@ -1,0 +1,4 @@
+I have a little bit of experience using GitHub and Git Bash from previous classes.
+Last semester, I worked on a group project where we were designing a website.
+For ease of use and access, our group used GitHub and Git Bash to edit and work on all website files.
+I also used GitHub heavily in my App Development w/ iOS class.
